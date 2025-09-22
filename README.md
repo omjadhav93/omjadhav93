@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm a 2nd-year Engineering student passionate about **building real-world web applications**.
+- 🔭 I'm a 3rd-year Engineering student passionate about **building real-world web applications**.
 - 💼 Currently working as a **Full-Stack Developer at @kodeskool**, building a complete online coding platform.
 - 🛍️ Built a **multi-page E-commerce site** with full authentication, cart, product management, and more.
 - 🌱 Learning and working with **Next.js**, **Node.js**, **MongoDB**, and **Framer Motion** for smooth UI/UX.
