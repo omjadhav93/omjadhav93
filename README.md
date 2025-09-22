@@ -26,7 +26,7 @@
 
 ## 📂 Featured Projects
 
-### 🔗 [Smart-Link](https://github.com/omjadhav93/Smart-Link)
+### 🚍 [Smart-Link](https://github.com/omjadhav93/Smart-Link)
 A full-stack **route optimization and smart transport platform**, **developed for the Smart India Hackathon (SIH)**.  
 **Role:** **Backend Engineer**  
 **Highlights:**
@@ -67,7 +67,7 @@ I enjoy solving challenging algorithmic problems and continuously improving my D
 
 ## 📫 Connect with Me
 - **GitHub:** [omjadhav93](https://github.com/omjadhav93)
-- **LinkedIn:** [linkedin.com/in/omkar-jadhav](#) *(add your LinkedIn URL if available)*
+- **LinkedIn:** [omjadhav93](https://www.linkedin.com/in/omjadhav93/)
 
 ---
 
