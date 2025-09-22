@@ -7,45 +7,68 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 I'm a 3rd-year Engineering student passionate about **building real-world web applications**.
-- 🛍️ Built a **multi-page E-commerce site** with full authentication, cart, product management, and more.
-- 🌱 Learning and working with **Next.js**, **Node.js**, **MongoDB**, and **Framer Motion** for smooth UI/UX.
-- 🎯 Aiming to blend **development** + **digital marketing** to help local businesses grow online.
+## 🚀 About Me
+- 🏗️ Passionate about designing and building scalable web applications.  
+- 🔎 Strong foundation in **Data Structures & Algorithms (DSA)** with a keen focus on performance and clean architecture.  
+- ⚡ Experienced in implementing complex features end-to-end, from database design to optimized frontend interactions.
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, Bootstrap 5, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs
-- **Tools & Libraries:** PM2, NGINX, Git, GitHub, bcrypt, cookie-parser, body-parser, Framer Motion
-- **Languages:** JavaScript, Python, C++, Java (basic)
-- **Cloud:** Azure (Beginner), MongoDB Atlas, Linux server hosting
-- **Other:** Strong foundation in Operating Systems, Microprocessors, and Computer Organization
-
----
-
-## 🧰 Projects
-
-- 🛒 **E-commerce Platform:** Full authentication, cart management, admin panel  
-- 📚 **Coding School Platform:** Under development at Kodeskool with student dashboards and teacher modules  
-- 🖥️ **Portfolio Website:** Built with Next.js + Tailwind, features dynamic skills, blog rendering, and smooth transitions  
-- 📱 **Water Purifier Service Page:** Instagram-based service business with customer lead handling  
+### Core Skills
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, Pug templating  
+- **Database & Cloud:** MongoDB, MySQL, Azure Cloud, Mongoose ORM  
+- **Tools & Others:** Git/GitHub, PM2, NGINX, Docker, Framer Motion
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Projects
 
-- 🔗 [LinkedIn](https://linkedin.com/) – Let’s connect professionally
-- 🛠️ [GitHub](https://github.com/omjadhav93) – You're here already!
-- 📧 Reach me at: **omkar.jadhav@example.com**
+### 🔗 [Smart-Link](https://github.com/omjadhav93/Smart-Link)
+A full-stack **route optimization and smart transport platform**, **developed for the Smart India Hackathon (SIH)**.  
+**Role:** **Backend Engineer**  
+**Highlights:**
+- Built a **Node.js + Express** backend with advanced Redis usage for real-time GPS data and route management.  
+- Implemented optimized **Dijkstra-based path calculations** and caching pipelines to reduce query latency.  
+- Designed a responsive **React** frontend with Tailwind CSS and integrated NGINX & PM2 for production deployment.  
+- Strong focus on algorithmic efficiency, scalable API design, and data modeling.
+
+### 💧 [AJWS](https://github.com/omjadhav93/AJWS)
+A **water purifier shopping and maintenance platform** for domestic, commercial, and industrial customers.  
+**Highlights:**
+- Developed with **HTML, CSS, Vanilla JavaScript**, and **Node.js + Express** (no frontend framework).  
+- Integrated a **custom search engine** using **Merge Sort** and **Rank Sort** for accurate product ranking.  
+- Created a detailed **seller product-form workflow** for seamless product addition and updates.
 
 ---
 
-<p align="center">
-  ✨ "Building solutions that work, learning every day, and helping others do the same." ✨
-  
-  
-</p>
+## 🧩 Competitive Programming & DSA
+
+I enjoy solving challenging algorithmic problems and continuously improving my DSA skills.
+
+- **LeetCode:** [omjadhav93](https://leetcode.com/u/omjadhav93/)  
+  - 300+ problems solved across Easy, Medium & Hard.  
+  - Contest Rating ~**1660+** with regular participation.
+
+- **CodeChef:** [omkaraj420](https://www.codechef.com/users/omkaraj420)  
+  - Strong problem-solving record with a solid grasp of **data structures**, **graph algorithms**, and **dynamic programming**.
+
+> These platforms reflect my ability to write clean, optimized code and apply complex algorithms to real-world problems—skills clearly demonstrated in my projects.
+
+---
+
+## 🌱 What I’m Working On
+- Expanding my portfolio with **Next.js** applications and advanced **cloud deployment** strategies.
+- Exploring **system design** and **scalable microservices** for large-scale applications.
+
+---
+
+## 📫 Connect with Me
+- **GitHub:** [omjadhav93](https://github.com/omjadhav93)
+- **LinkedIn:** [linkedin.com/in/omkar-jadhav](#) *(add your LinkedIn URL if available)*
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
